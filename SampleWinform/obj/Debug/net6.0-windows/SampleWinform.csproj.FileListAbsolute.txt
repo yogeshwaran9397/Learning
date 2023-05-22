@@ -1,0 +1,17 @@
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\bin\Debug\net6.0-windows\SampleWinform.exe
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\bin\Debug\net6.0-windows\SampleWinform.deps.json
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\bin\Debug\net6.0-windows\SampleWinform.runtimeconfig.json
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\bin\Debug\net6.0-windows\SampleWinform.dll
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\bin\Debug\net6.0-windows\SampleWinform.pdb
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.csproj.AssemblyReference.cache
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.Form1.resources
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.csproj.GenerateResource.cache
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.AssemblyInfoInputs.cache
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.AssemblyInfo.cs
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.csproj.CoreCompileInputs.cache
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.dll
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\refint\SampleWinform.dll
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.pdb
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\SampleWinform.genruntimeconfig.cache
+E:\Yogesh\Live\Prac\C#\Learnings\SampleWinform\obj\Debug\net6.0-windows\ref\SampleWinform.dll

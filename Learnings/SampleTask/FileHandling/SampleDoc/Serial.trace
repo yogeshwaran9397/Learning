@@ -1,0 +1,1 @@
+<ArrayOfEmployeeData xmlns="http://schemas.datacontract.org/2004/07/Learnings.SampleTask.FileHandling.Serialization" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><EmployeeData><EmpID>1</EmpID><EmpName>Yog</EmpName></EmployeeData><EmployeeData><EmpID>2</EmpID><EmpName>Alex</EmpName></EmployeeData></ArrayOfEmployeeData>

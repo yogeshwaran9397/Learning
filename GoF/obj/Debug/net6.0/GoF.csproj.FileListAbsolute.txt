@@ -1,0 +1,15 @@
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\bin\Debug\net6.0\GoF.exe
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\bin\Debug\net6.0\GoF.deps.json
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\bin\Debug\net6.0\GoF.runtimeconfig.json
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\bin\Debug\net6.0\GoF.dll
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\bin\Debug\net6.0\GoF.pdb
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\GoF.csproj.AssemblyReference.cache
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\GoF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\GoF.AssemblyInfoInputs.cache
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\GoF.AssemblyInfo.cs
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\GoF.csproj.CoreCompileInputs.cache
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\GoF.dll
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\refint\GoF.dll
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\GoF.pdb
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\GoF.genruntimeconfig.cache
+E:\Yogesh\Courses\Playground\C#\CSharp-Practise\Learnings\GoF\obj\Debug\net6.0\ref\GoF.dll
